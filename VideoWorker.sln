@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoWorker", "VideoWorker\VideoWorker.csproj", "{45364133-08AC-40AB-8DB7-6FF4EB8E3B0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45364133-08AC-40AB-8DB7-6FF4EB8E3B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45364133-08AC-40AB-8DB7-6FF4EB8E3B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45364133-08AC-40AB-8DB7-6FF4EB8E3B0C}.Debug|x86.ActiveCfg = Debug|x86
+		{45364133-08AC-40AB-8DB7-6FF4EB8E3B0C}.Debug|x86.Build.0 = Debug|x86
+		{45364133-08AC-40AB-8DB7-6FF4EB8E3B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45364133-08AC-40AB-8DB7-6FF4EB8E3B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45364133-08AC-40AB-8DB7-6FF4EB8E3B0C}.Release|x86.ActiveCfg = Release|x86
+		{45364133-08AC-40AB-8DB7-6FF4EB8E3B0C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F848E8B-F599-4293-836B-69A64B4A10BE}
+	EndGlobalSection
+EndGlobal
